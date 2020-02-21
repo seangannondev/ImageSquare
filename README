@@ -1,0 +1,20 @@
+Image Square is a simple app that will take your rectangular image and square it.
+
+The idea is to crop the outermost pixels in order to make the image square.
+
+THIS WILL NOT RETAIN THE FULL IMAGE. THERE WILL BE A PORTION OF IT LOST!
+
+How to:
+
+1. Simply open your command prompt and navigate to the Image square directory.
+
+2. Execute the PictureSquare.py file followed by the image you would like to square.
+
+Example:
+            python PictureSquare.py C:\AppSecurity\testimage.jpg
+
+
+    The above example will square an image called 'testimage.jpg' that I have saved in the AppSecurity folder
+
+After completion, you will find the squared image saved as newimg.jpg in the ImageSquare directory
+
