@@ -76,7 +76,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,12 +100,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582250094716</updated>
-      <workItem from="1582250106493" duration="734000" />
+      <workItem from="1582250106493" duration="1427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="734000" />
+    <option name="totallyTimeSpent" value="1427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
